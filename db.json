@@ -1,15 +1,15 @@
 {
   "intoslider": [
     {
-      "title": "First Banner",
+      "id": "1",
       "slideImg": "https://media-cdn.oriflame.com/digitalPromotionsMedia/images/banner-media/UK/20975822/20845577.jpg?version=2&w=900&bc=%23f5f5f5&ib=%23f5f5f5&q=90&imageFormat=WebP"
     },
     {
-      "title": "Second Banner",
+      "id": "2r",
       "slideImg": "https://media-cdn.oriflame.com/digitalPromotionsMedia/images/banner-media/UK/20976383/20845603.jpg?version=4&w=900&bc=%23f5f5f5&ib=%23f5f5f5&q=90&imageFormat=WebP"
     },
     {
-      "title": "third Banner",
+      "id": "3",
       "slideImg": "https://media-cdn.oriflame.com/digitalPromotionsMedia/images/banner-media/UK/20976689/20845613.jpg?version=2&w=900&bc=%23f5f5f5&ib=%23f5f5f5&q=90&imageFormat=WebP"
     }
   ]
